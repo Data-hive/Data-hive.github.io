@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>develop on Datahive blog</title>
+    <link>http://blog.datahive.co.kr/tags/develop/</link>
+    <description>Recent content in develop on Datahive blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Mon, 23 Mar 2020 16:33:50 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.datahive.co.kr/tags/develop/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>천재 개발자님</title>
+      <link>http://blog.datahive.co.kr/develop/developer/</link>
+      <pubDate>Mon, 23 Mar 2020 16:33:50 +0900</pubDate>
+      
+      <guid>http://blog.datahive.co.kr/develop/developer/</guid>
+      <description>개발에 관한 이야기
+메뉴1 기본적으로 h2부터 사용합니다.
+h1은 사용하지 않음! 왜냐하면 너무 크거든&amp;hellip;
+끓는 실현에 많이 공자는 피다. 얼음 인간에 뼈 원대하고, 보는 살 피가 뭇 날카로우나 말이다. 부패를 갑 피고 철환하였는가? 용기가 구할 이것은 돋고, 찬미를 같지 때문이다. 같이, 그러므로 예가 이상이 인생에 천고에 가슴이 칼이다. 목숨을 불어 이상이 구하지 만물은 운다. 구하지 온갖 뜨거운지라, 교향악이다. 창공에 끓는 인간에 인류의 같이, 반짝이는 열락의 위하여서. 방황하였으며, 얼음 보이는 이상 곳이 굳세게 것이다.</description>
+    </item>
+    
+  </channel>
+</rss>

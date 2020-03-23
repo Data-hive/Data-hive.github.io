@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etcs on Datahive blog</title>
+    <link>http://blog.datahive.co.kr/etc/</link>
+    <description>Recent content in Etcs on Datahive blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Wed, 25 Dec 2019 22:09:23 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.datahive.co.kr/etc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>블로그를 개설하였다.</title>
+      <link>http://blog.datahive.co.kr/etc/makeblog/</link>
+      <pubDate>Wed, 25 Dec 2019 22:09:23 +0900</pubDate>
+      
+      <guid>http://blog.datahive.co.kr/etc/makeblog/</guid>
+      <description>2020년에는 꼭 블로그 개설에 도전해보고 싶었고, 작심삼일이 되지 않기 위해, 조금씩 미리 준비하기로 마음을 먹었다. 그리고… 마침내 나의 첫 블로그를 개설하였다!
+1. 블로그 개설 과정 1-1. 플랫폼 선정 원래 익숙한 워드프레스를 사용하려고 했으나, 내 경험상 워드프레스는 상대적으로 무겁고 에디터가 영 마음에 들지 않아, 글과 사진 위주의 블로그를 운영하려는 나는 생산성 향상을 위해 정적 블로그+마크다운 으로 방향을 선회하였다.
+정적 블로그는 Gatsby, Jekyll, Hugo, Hexo, Next.js 등 참 많아서 뭘 사용해야 할지 몰랐으나, 어차피 결과물은 크게 다르지 않을 거라고 판단하여 제비뽑기로 Hugo를 사용하게 되었다.</description>
+    </item>
+    
+  </channel>
+</rss>

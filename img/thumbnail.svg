@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="90px" viewBox="0 0 160 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61 (89581) - https://sketch.com -->
+    <title>thumbnail</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="thumbnail">
+            <rect id="Rectangle" fill="#B0B3B7" fill-rule="nonzero" x="0" y="0" width="160" height="90"></rect>
+            <path d="M70.4,41.8 L70.4,54.6 L89.6,54.6 L89.6,61 L64,61 L64,41.8 L70.4,41.8 Z M96,41.8 L96,54.6 L89.6,54.6 L89.6,41.8 L96,41.8 Z M96,29 L96,35.4 L64,35.4 L64,29 L96,29 Z" id="Combined-Shape" fill="#111111"></path>
+        </g>
+    </g>
+</svg>
