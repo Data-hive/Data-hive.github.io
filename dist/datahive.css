@@ -321,6 +321,15 @@ p {
     border-radius: 4px;
 }
 
+.dh-menu > ul > li.active > a {
+    color: white;
+}
+
+.dh-menu > ul > li > a {
+    text-decoration: none;
+    color: var(--color-darkgray);
+}
+
 .dh-blog-card {
     border-radius: 16px;
     margin-bottom: 2rem;
@@ -400,7 +409,7 @@ p {
 }
 
 .dh-pagination > ul.pagination > li a:hover {
-    background: var(--light-48);
+    background: var(--color-lightgray);
 
 }
 
@@ -413,10 +422,9 @@ p {
 }
 
 .dh-pagination > ul.pagination > li.active a {
-    background: var(--color-white);
-    box-shadow: 0 4px 4px 0 var(--shadow-8);
+    background: var(--color-blue);
     padding: 0.75rem 1.25rem;
-    color: var(--color-black);
+    color: white;
 }
 
 
