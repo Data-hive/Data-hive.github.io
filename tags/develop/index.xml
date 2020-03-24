@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>develop on Datahive blog</title>
-    <link>http://blog.datahive.co.kr/tags/develop/</link>
+    <link>https://blog.datahive.co.kr/tags/develop/</link>
     <description>Recent content in develop on Datahive blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
     <lastBuildDate>Mon, 23 Mar 2020 16:33:50 +0900</lastBuildDate>
     
-	<atom:link href="http://blog.datahive.co.kr/tags/develop/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.datahive.co.kr/tags/develop/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>천재 개발자님</title>
-      <link>http://blog.datahive.co.kr/develop/developer/</link>
+      <link>https://blog.datahive.co.kr/develop/developer/</link>
       <pubDate>Mon, 23 Mar 2020 16:33:50 +0900</pubDate>
       
-      <guid>http://blog.datahive.co.kr/develop/developer/</guid>
+      <guid>https://blog.datahive.co.kr/develop/developer/</guid>
       <description>개발에 관한 이야기
 메뉴1 기본적으로 h2부터 사용합니다.
 h1은 사용하지 않음! 왜냐하면 너무 크거든&amp;hellip;
